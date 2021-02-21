@@ -1,0 +1,19 @@
+.login_form{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+
+}
+.login_form p{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.login_btn{
+    width: 100px;
+    margin-left: 150px;
+}

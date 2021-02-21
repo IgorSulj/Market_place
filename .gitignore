@@ -1,0 +1,6 @@
+/venv/
+/Market_place/accounts/migrations/*.py
+/Market_place/main/migrations/*.py
+!/Market_place/accounts/migrations/__init__.py
+!/Market_place/main/migrations/__init__.py
+/Market_place/db.sqlite3
